@@ -1,0 +1,19 @@
+[
+    {
+        "watch": "localhost:8080",
+        "target": "https://blins.org",
+        "method": "redirect",
+        "rolls":[
+            {
+                "start": 0,
+                "stop": 35,
+                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            },
+            {
+                "start": 35,
+                "stop": 70,
+                "url": "https://www.youtube.com/watch?v=fWNaR-rxAic"
+            }
+        ]
+    }
+]
